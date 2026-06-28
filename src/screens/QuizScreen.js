@@ -248,7 +248,7 @@ export default function QuizScreen({ route, navigation }) {
             <PrimaryButton
               title="Submit Answer"
               onPress={handleSubmit}
-              disabled={currentQ.type === 'multipleChoice' && ui.selectedIndex === null}
+              disabled={false}
             />
           ) : ui.showNextButton ? (
             <PrimaryButton
