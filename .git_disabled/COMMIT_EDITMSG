@@ -1,0 +1,43 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	modified:   App.js
+#	modified:   app.json
+#	new file:   assets/animations/preparation-logo.json
+#	new file:   assets/indexPageImage.png
+#	new file:   assets/logo.png
+#	new file:   assets/splash-bg.png
+#	new file:   assets/splash-transparent.png
+#	modified:   package-lock.json
+#	modified:   package.json
+#	new file:   src/components/AnimatedSplashScreen.js
+#	new file:   src/components/ChallengeCard.js
+#	new file:   src/components/ChapterGrid.js
+#	new file:   src/components/FillBlank.js
+#	new file:   src/components/Header.js
+#	new file:   src/components/HeroSection.js
+#	new file:   src/components/MultipleChoice.js
+#	new file:   src/components/PreparationLogoAnimation.js
+#	new file:   src/components/ProgressBar.js
+#	new file:   src/components/ScriptureCard.js
+#	new file:   src/components/StatsBanner.js
+#	new file:   src/components/Timer.js
+#	new file:   src/context/AppReadinessContext.js
+#	new file:   src/context/QuizContext.js
+#	new file:   src/data/daniel-1-6-questions.js
+#	new file:   src/data/daniel-7-12-questions.js
+#	new file:   src/data/getAllQuestions.js
+#	new file:   src/navigation/AppNavigator.js
+#	new file:   src/screens/HistoryScreen.js
+#	new file:   src/screens/HomeScreen.js
+#	new file:   src/screens/QuizListScreen.js
+#	new file:   src/screens/QuizScreen.js
+#	new file:   src/screens/ResultsScreen.js
+#	new file:   src/utils/answerMatcher.js
+#	new file:   src/utils/scoring.js
+#	new file:   src/utils/startupAssets.js
+#	new file:   src/utils/testAnswerMatcher.js
+#

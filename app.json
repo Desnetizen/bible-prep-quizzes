@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Bible Preparation Quiz",
+    "slug": "bible-prep-quizzes",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/App_icon.png",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-transparent.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#060e1f"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/App_icon.png",
+        "backgroundColor": "#ffffff",
+        "darkIcon": "./assets/darkMode_app_icon.png",
+        "darkBackgroundColor": "#000000"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/App_icon.png"
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
